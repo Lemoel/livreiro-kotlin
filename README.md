@@ -1,2 +1,2 @@
-# livreiro-kotlin
-Estudo de Kotlin
+# Livreiro
+Um estudo de Kotlin para rever conceitos.
